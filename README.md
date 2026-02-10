@@ -90,5 +90,7 @@ Each lab includes instructions, architecture diagrams, scripts, and expected out
 📫 Contact
 Author: Xavier Mareca
 Brand: XDT AI — XavierDataTech
-LinkedIn: https://www.linkedin.com/in/xaviermareca
-Email: xavierdatatech@outlook.com
+LinkedIn: 
+https://www.linkedin.com/in/xaviermareca
+Email: 
+xavierdatatech@outlook.com
