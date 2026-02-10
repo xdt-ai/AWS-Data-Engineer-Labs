@@ -1,4 +1,8 @@
 # AWS Data Engineering Labs  
+
+**⚠️ Work in Progress**  
+This project is still under development and may change at any time.
+
 ### XDT AI — XavierDataTech  
 Hands‑on cloud engineering for scalable analytics
 
