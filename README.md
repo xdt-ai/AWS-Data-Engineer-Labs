@@ -45,6 +45,29 @@ Each lab is self‑contained and focuses on a specific AWS service or architectu
 
 ## 📂 Repository Structure
 
+/labs
+   /lab-01-ingestion
+   /lab-02-glue-etl
+   /lab-03-eventbridge
+   /lab-04-redshift
+   /lab-05-serverless-processing
+
+/docs
+   architecture/
+   diagrams/
+   technical-notes/
+
+/datasets
+   raw/
+   processed/
+
+/scripts
+   utilities and automation
+`
+
+Each lab includes instructions, architecture diagrams, scripts, and expected outputs.
+
+
 ---
 
 ## 🧰 Tech Stack
@@ -64,9 +87,8 @@ Each lab is self‑contained and focuses on a specific AWS service or architectu
 
 ---
 
-📬 Contact
-
-Xavier Mareca – XDP.AI  
-Data Architecture, BI/AI, and Workforce Intelligence  
-GitHub: https://github.com/xavierdatatech (github.com in Bing)  
-LinkedIn: ](https://www.linkedin.com/in/xavier-mareca-247344148/)
+📫 Contact
+Author: Xavier Mareca
+Brand: XDT AI — XavierDataTech
+LinkedIn: https://www.linkedin.com/in/xaviermareca
+Email: xavierdatatech@outlook.com
