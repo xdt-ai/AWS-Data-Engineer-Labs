@@ -61,3 +61,12 @@ Each lab is self‑contained and focuses on a specific AWS service or architectu
 - Understand lakehouse patterns on AWS  
 - Create reproducible ingestion & transformation pipelines  
 - Apply cloud engineering to HR & Workforce Intelligence use
+
+---
+
+📬 Contact
+
+Xavier Mareca – XDP.AI  
+Data Architecture, BI/AI, and Workforce Intelligence  
+GitHub: https://github.com/xavierdatatech (github.com in Bing)  
+LinkedIn: ](https://www.linkedin.com/in/xavier-mareca-247344148/)
